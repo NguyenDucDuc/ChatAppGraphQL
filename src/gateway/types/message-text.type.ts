@@ -1,0 +1,3 @@
+interface IMessageText {
+  content: string;
+}
